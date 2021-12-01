@@ -1,0 +1,9 @@
+C:\Users\Alex\Desktop\Pat-Man\Pat-Man\bin\Debug\Pat-Man.exe
+C:\Users\Alex\Desktop\Pat-Man\Pat-Man\bin\Debug\Pat-Man.pdb
+C:\Users\Alex\Desktop\Pat-Man\Pat-Man\bin\Debug\Pat-Man.xml
+C:\Users\Alex\Desktop\Pat-Man\Pat-Man\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Alex\Desktop\Pat-Man\Pat-Man\obj\x86\Debug\WindowsApplication1.patmanMain.resources
+C:\Users\Alex\Desktop\Pat-Man\Pat-Man\obj\x86\Debug\Pat-Man.vbproj.GenerateResource.Cache
+C:\Users\Alex\Desktop\Pat-Man\Pat-Man\obj\x86\Debug\Pat-Man.exe
+C:\Users\Alex\Desktop\Pat-Man\Pat-Man\obj\x86\Debug\Pat-Man.xml
+C:\Users\Alex\Desktop\Pat-Man\Pat-Man\obj\x86\Debug\Pat-Man.pdb
